@@ -1,2 +1,2 @@
-# hunter_ext_chrome
+# hunter-chrome
 Hunter BOT extension for google chrome
